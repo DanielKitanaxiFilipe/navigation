@@ -1,6 +1,6 @@
 <img src="./src/assets/Navigation.png" alt="">
 
-```markdown
+
 # Projeto de Navegação Lateral 🚀
 
 Este é um projeto para criar uma navegação lateral ou menu lateral para o seu conteúdo no YouTube.
@@ -62,6 +62,3 @@ Adicione aqui os links para seus vídeos do YouTube.
 ## Licença 📄
 
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
-```
-
-Adicionar emojis pode dar um toque divertido e visualmente agradável ao seu README. Certifique-se de usar emojis relevantes para cada seção e para destacar informações importantes.
